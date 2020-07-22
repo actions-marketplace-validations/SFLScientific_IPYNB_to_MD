@@ -1,5 +1,5 @@
 # action.yml
-name: 'IPYNB_to_MD'
+name: 'IPYNB to MD'
 description: 'Copies all notesbooks to markdown versions'
 runs:
   using: 'docker'
